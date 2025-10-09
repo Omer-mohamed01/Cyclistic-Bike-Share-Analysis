@@ -42,6 +42,9 @@ Average ride length: Casual ≈ 23 min | Members ≈ 12 min.
 Gender distribution is similar across both groups but overall male-dominated.
 </br>
 Clear opportunity to convert weekend casual riders into annual members.
+![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Sum%20of%20Trips%20Casual%20vs%20Annual.png)
+</br>
+![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Average%20Ride%20Length%20Day%20of%20Week.png)
 
 ## 💡 Recommendations
 Offer weekend or seasonal membership discounts to attract casual riders.
