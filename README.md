@@ -54,3 +54,28 @@ Focus marketing on recreational users during weekends and holidays
 
 ## 🧠 Outcome
 This analysis provides data-driven insights for Cyclistic’s marketing strategy, emphasizing how understanding rider behavior can help increase membership conversion and long-term engagement.
+
+---
+
+## 🗂️ Project Structure
+
+
+> 📝 *Large raw data files are not stored in this repository.  
+> Instead, links to the public dataset are included in `data/data_source_link.txt`.*
+
+---
+
+## 🧠 Explanation
+This structure helps others quickly understand:
+- What each folder contains  
+- How your project is organized  
+- Where to find key deliverables (data, presentation, visuals)
+
+---
+
+## ✅ **2️⃣ Optional Tip**
+You can add a link to your PowerPoint and PDF inside the structure:
+```markdown
+[View Presentation](Cyclistic_Case_Study.pptx)
+[View Case Study PDF](docs/Case_Study_1.pdf)
+
